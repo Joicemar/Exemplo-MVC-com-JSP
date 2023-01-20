@@ -11,6 +11,6 @@
     <br/>
     <!--Chamando indiretamente o metodo contextPath. ServletControlador usado para mapear esse controlador-->
     <a href="<%=request.getContextPath() %>/ServletControlador">Link para o controlador de variaveis</a>
-    
+
 </body>
 </html>
